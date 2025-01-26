@@ -1,0 +1,62 @@
+{
+  "healthy": [
+    {
+      "name": "אבוקדו",
+      "image": "/foods/אבוקדו.webp"
+    },
+    {
+      "name": "אגוזים",
+      "image": "/foods/אגוזים.webp"
+    },
+    {
+      "name": "ביצה",
+      "image": "/foods/ביצה.webp"
+    },
+    {
+      "name": "זיתים",
+      "image": "/foods/זיתים.webp"
+    },
+    {
+      "name": "סלמון",
+      "image": "/foods/סלמון.webp"
+    },
+    {
+      "name": "שמן קוקוס",
+      "image": "/foods/שמן קוקוס.webp"
+    },
+      {
+      "name": "גבינת שמנת",
+      "image": "/foods/גבינות שמינת.webp"
+    }
+  ],
+  "unhealthy": [
+    {
+      "name": "בורקס",
+      "image": "/foods/בורקס.jpg"
+    },
+    {
+      "name": "ביסקוויט",
+      "image": "/foods/ביסקוויט.jpg"
+    },
+    {
+      "name": "מרגרינה",
+      "image": "/foods/מרגרינה.jpg"
+    },
+    {
+      "name": "סופגניה",
+      "image": "/foods/סופגניה.webp"
+    },
+    {
+      "name": "צ'יפס",
+      "image": "/foods/ציפס.webp"
+    },
+    {
+      "name": "קצפת",
+      "image": "/foods/קצפת.webp"
+    },
+    {
+      "name": "קרמבו",
+      "image": "/foods/קרמבו.jpg"
+    }
+  ]
+}
